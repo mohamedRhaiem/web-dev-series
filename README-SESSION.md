@@ -11,8 +11,8 @@ This project is for studying goals.
 
 ## Session 1
 
-1/ Components architecture
-2/ Reusable code
+- 1/ Components architecture
+- 2/ Reusable code
 
 let's create a page that will list n card element(in the meeting we will choose the context)
 
